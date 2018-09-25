@@ -16,6 +16,6 @@ wget http://<master_ip>:8080/jnlpJars/slave.jar
 
 sudo apt-get install default-jre
 
-# start slave agent: 
+# start slave agent:
 
 ssh root@<slave_ip> java -jar /root/bin/slave.jar
