@@ -57,6 +57,7 @@ choco install -y 7zip
 choco install -y winscp
 choco install -y foxitreader
 choco install -y sql-server-management-studio
+choco install -y far
 
 # Terminal clients
 choco install -y cmder
